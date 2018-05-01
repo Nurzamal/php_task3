@@ -1,0 +1,3 @@
+﻿[generic] sending-email-using-mailgun-laravel5: Requesting header
+[generic] sending-email-using-mailgun-laravel5: Downloading webpage
+[generic] sending-email-using-mailgun-laravel5: Extracting information
